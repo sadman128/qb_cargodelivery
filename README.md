@@ -4,10 +4,10 @@
 ## Original script - [https://github.com/apoiat/ESX_Cargodelivery]
 
 ### Requirements
-* QBCore Police job
-  * to get number of police (can be changed)
 * QBCore 
-  * absolutely  needed
+  * absolutely
+* qb-vehiclekeys
+  * to grant vehicle keys
 
 ## Download & Installation
 
